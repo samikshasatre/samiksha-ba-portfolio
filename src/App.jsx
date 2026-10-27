@@ -17,8 +17,7 @@ import {
   Download,
   ExternalLink,
   Mail,
-  Linkedin,
-  Github,
+  
   ChevronRight,
   Moon,
   Sun,
